@@ -50,93 +50,123 @@ LB,Rodell Thomas,23,2016,83,88,75,75,79,76,1.3,4
 END_PLAYERS 
 
 Luigi,LUI 
+
 END_PLAYERS
 
-Peach,PEA 
+Peach,PEA
+
 END_PLAYERS  
 
 Rosalina,ROSA 
+
 END_PLAYERS 
 
 Bass,BASS 
+
 END_PLAYERS 
 
 Megaman,MEGA 
+
 END_PLAYERS  
 
 Roll,ROLL 
+
 END_PLAYERS 
 
 Zero,ZERO 
+
 END_PLAYERS 
 
 Blastoise,BLA 
+
 END_PLAYERS 
 
 Celebi,CEL 
+
 END_PLAYERS 
 
 Eevee,EEV 
+
 END_PLAYERS
 
 Gardevoir,GAR 
+
 END_PLAYERS  
 
 Sonic,SON 
+
 END_PLAYERS  
 
 Tails,TAI 
+
 END_PLAYERS  
 
 Cream,CRE 
+
 END_PLAYERS  
 
 Amy,AMY 
+
 END_PLAYERS 
 
 Bowser,BOW 
+
 END_PLAYERS 
 
 Mario,MAR 
+
 END_PLAYERS 
 
 Waluigi,WAL 
+
 END_PLAYERS 
 
 Wario,WAR 
+
 END_PLAYERS  
 
 Glyde,GLY 
+
 END_PLAYERS
 
 Gutsman,GUT 
+
 END_PLAYERS 
 
 Protoman,PRO 
+
 END_PLAYERS 
 
 X,X 
+
 END_PLAYERS
 
 Espeon,ESP 
+
 END_PLAYERS  
 
 Glaceon,GLA 
+
 END_PLAYERS 
 
 Pikachu,PIK 
+
 END_PLAYERS  
 
 Sylveon,SYL 
+
 END_PLAYERS  
 
 Eggman,EGG 
+
 END_PLAYERS 
 
 Knuckles,KNU 
+
 END_PLAYERS  
 
 Rouge,ROU 
+
 END_PLAYERS  
 
 Shadow,SHA 
